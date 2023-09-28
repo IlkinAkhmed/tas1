@@ -1,0 +1,132 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.basic {
+    margin-left: 500px;
+}
+
+button {
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 30px;
+    padding: 20px;
+    background-color: transparent;
+    color: white;
+    border-radius: 10%;
+    font-weight: bold;
+    border-color: white;
+}
+
+h1 {
+    font-size: 70px;
+    padding-top: 150px;
+    color: white;
+}
+
+.card {
+    background-image: url(https://wallpapers.com/images/hd/classy-butter-chicken-platter-indian-food-s8a8b9aojk6kqoz0.jpg);
+    width: 100%;
+    height: 750px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    transition: 0.2s;
+}
+
+
+/* .imgone {
+    width: 100%;
+    height: 100%;
+}*/
+
+#find {
+    font-size: 50px;
+    margin-left: 580px;
+    margin-top: 100px;
+}
+
+#free {
+    font-size: 20px;
+    margin-left: 480px;
+    font-family: 'Croissant One', cursive;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.first {
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 200px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.txt {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.vegies {
+    font-family: 'Young Serif', serif;
+    margin-top: 30px;
+    color: brown;
+}
+
+.habit {
+    color: gray;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.second {
+    width: 300px;
+    margin-left: 700px;
+    display: inline-block;
+}
+
+.txt2 {
+    text-align: center;
+}
+
+a:hover {
+    letter-spacing: 3px;
+    transition: 0.5s;
+}
+
+.thirth {
+    width: 300px;
+    display: grid;
+}
+
+.first:hover {
+    box-shadow: 10px 10px 10px;
+    background-color: bisque;
+    transition: 0.5s;
+}
+
+.second:hover {
+    box-shadow: 10px 10px 10px;
+    background-color: bisque;
+    transition: 0.5s;
+}
+
+.thirth:hover {
+    box-shadow: 10px 10px 10px;
+    background-color: bisque;
+    transition: 0.5s;
+}
